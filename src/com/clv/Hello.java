@@ -7,7 +7,7 @@ public class Hello {
         System.out.println("Hello");
 <<<<<<< HEAD
         System.out.println("changed to Marija");
-        System.out.println("changed from window to door");
+        System.out.println("window");
 =======
         System.out.println("changed to Marija");
         System.out.println("window");
