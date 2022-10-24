@@ -2,6 +2,6 @@ package com.clv;
 
 public class Class3 {
     public static void main(String[] args) {
-        System.out.println("Klasa3");
+        System.out.println("Klasa3 promenjena u exp");
     }
 }
