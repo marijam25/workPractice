@@ -5,5 +5,6 @@ public class Grana {
         System.out.println("ovo je grana");
         System.out.println("this is branch");
         System.out.println("hello branch");
+        System.out.println("zdravo svima");
     }
 }
